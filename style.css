@@ -15,8 +15,8 @@ body {
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
-    color: black;
+    background-color: #ff6961;
+    color: #77dd77;
     border-radius: 0;
     border-bottom: 10px solid black;
   }
@@ -28,6 +28,8 @@ body {
   .time-block{
     text-align: center;
     border-radius: 15px;
+    background-color:#77dd77;
+    color: #ff6961;
   }
   
   .row {
@@ -61,8 +63,8 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06AED5;
-    color: white;
+    background-color: #f386;
+    color: rgb(6, 138, 116);
   }
   
   .saveBtn i:hover {
